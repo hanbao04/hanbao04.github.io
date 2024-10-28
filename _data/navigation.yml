@@ -14,15 +14,13 @@ main:
   #- title: "Teaching"
   #  url: /teaching/    
     
-  - title: "Portfolio"
+  - title: "Project"
     url: /portfolio/
-        
-  
-    
+      
   - title: "CV"
     url: /cv/
 
-  - title: "Blog Posts"
+  - title: "HAPPY MOMENT"
     url: /year-archive/
     
   #- title: "Guide"
