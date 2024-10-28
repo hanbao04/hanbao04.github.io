@@ -15,7 +15,9 @@ redirect_from:
 * M.S. in **Electrical Engineering (Nano-electronics and Circuit Design)**, *Brussels Faculty of Engineering*, 2021 - 2023
 * Bachelor & Master joint program in **Electrical Engineering**, *Brussels Faculty of Engineering & *Northwestern Polytechnical University*, 2021
 * B.S. in **Microeletronics**, *Northwestern Polytechnical University*, 2019 - 2022
-----------------------------
+
+=============
+
 ## Work experience
 
 * Spring 2024: Academic Pages Collaborator
@@ -27,7 +29,9 @@ redirect_from:
   * [Aviage Systems](https://www.aviagesystems.com)
   * Testing and improving the performance of Beidou monitoring module for C919
   * Department: BLU
-----------------------------
+  * 
+====================
+
 ## Skills
 
 * **Programming:**
@@ -35,7 +39,7 @@ redirect_from:
 * **EDA tools:**
   * Xilinx Vivado(FPGA design), ADS(High frequency design), LTspice(Cirsuit analysis), Cadence Virtuoso(IC layout design)
 
-----------------------------
+==================
   
 ## Award
 
