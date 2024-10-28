@@ -2,7 +2,7 @@
 title: "I’m giving it my all… seriously, I swear!"
 collection: I don't know who will accept this
 category: manuscripts
-permalink: /publication/2009-10-01-paper-title-number-1
+permalink: 
 excerpt: 'No no no no no ...'
 date: I don't know
 venue: '...'
