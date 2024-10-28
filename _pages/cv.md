@@ -20,11 +20,6 @@ redirect_from:
 
 ## Work experience
 
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
-
 * **RF Test Engineer (2021.6-2021.8)**
   * [Aviage Systems](https://www.aviagesystems.com)
   * Testing and improving the performance of Beidou monitoring module for C919
