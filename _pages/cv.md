@@ -11,10 +11,10 @@ redirect_from:
 
 ## Education
 
-* Ph.D in **applied edge AI**, *Vrije Universiteit Brussel*, 2024 - present
-* M.S. in **Electrical Engineering (Nano-electronics and Circuit Design)**, *Brussels Faculty of Engineering*, 2021 - 2023
-* Bachelor & Master joint program in **Electrical Engineering**, *Brussels Faculty of Engineering & Northwestern Polytechnical University*, 2021
-* B.S. in **Microeletronics**, *Northwestern Polytechnical University*, 2019 - 2022
+* Ph.D in applied edge AI, *Vrije Universiteit Brussel*, 2024 - present
+* M.S. in Electrical Engineering (Nano-electronics and Circuit Design), *Brussels Faculty of Engineering*, 2021 - 2023
+* Bachelor & Master joint program in Electrical Engineering, *Brussels Faculty of Engineering & Northwestern Polytechnical University*, 2021
+* B.S. in Microeletronics, *Northwestern Polytechnical University*, 2019 - 2022
 
 
 
