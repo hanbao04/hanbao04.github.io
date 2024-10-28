@@ -9,57 +9,34 @@ redirect_from:
 
 {% include base_path %}
 
-Education
+## Education
 ======
-* Ph.D in applied edge AI, Vrije Universiteit Brussel, 2024 - present
-* M.S. in Electrical Engineering, Brussels Faculty of Engineering, 2021 - 2023
-* Bachelor & Master joint program in Electrical Engineering, Brussels Faculty of Engineering & Northwestern Polytechnical University, 2021
-* B.S. in Microeletronics, Northwestern Polytechnical University, 2019 - 2022
-
-Work experience
+* Ph.D in **applied edge AI**, *Vrije Universiteit Brussel*, 2024 - present
+* M.S. in **Electrical Engineering (Nano-electronics and Circuit Design)**, *Brussels Faculty of Engineering*, 2021 - 2023
+* Bachelor & Master joint program in **Electrical Engineering**, *Brussels Faculty of Engineering & *Northwestern Polytechnical University*, 2021
+* B.S. in **Microeletronics**, *Northwestern Polytechnical University*, 2019 - 2022
+----------------------------
+## Work experience
 ======
 * Spring 2024: Academic Pages Collaborator
   * Github University
   * Duties includes: Updates and improvements to template
   * Supervisor: The Users
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* **RF Test Engineer (2021.6-2021.8)**
+  * [Aviage Systems](https://www.aviagesystems.com)
+  * Testing and improving the performance of Beidou monitoring module for C919
+  * Department: BLU
+----------------------------
+## Skills
+======
+* **Programming:**
+  * Verilog, VHDL, Python, Matlab, C/C++
+* **EDA tools:**
+  * Xilinx Vivado(FPGA design), ADS(High frequency design), LTspice(Cirsuit analysis), Cadence Virtuoso(IC layout design)
 
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+----------------------------
   
-Skills
+## Award
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
-
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+* Second-Class scholarship of Northwestern Polytechnical University (2021)
