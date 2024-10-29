@@ -20,7 +20,7 @@ redirect_from:
 
 ## Work experience
 
-* **RF Test Engineer (2021.6-2021.8)**
+* **RF Test Engineer (internship) (2021.6-2021.8)**
   * [Aviage Systems](https://www.aviagesystems.com)
   * Testing and improving the performance of Beidou monitoring module for C919
   * Department: BLU
