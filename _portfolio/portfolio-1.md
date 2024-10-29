@@ -1,6 +1,6 @@
 ---
 title: Comparative study of digital pre-distortion techniques for RF power amplifiers
-excerpt: "Master thesis<br/><img src='/images/master_thesis.png'>"
+excerpt: "<br/><img src='/images/master_thesis.png'>"
 collection: portfolio
 ---
 
