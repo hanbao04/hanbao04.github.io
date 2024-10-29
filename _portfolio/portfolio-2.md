@@ -4,7 +4,7 @@ excerpt: "<br/><img src='/images/LEO.png'>"
 collection: portfolio
 ---
 
-Master thesis for MSc degree in Bruface
-* Implement different memory polynomial models as digital pre-distorters(DPD) and compare the performance in MATLAB.
-* Using 4G, 5G and WiFi signal as excitation to test the performance of DPD on a commercial power amplifier(PA).
-* Using own-designed 1.6GHz PA to test the performance of DPD.
+Project for Communication Channel:
+* Simulate the antenna arrays and served as ground RX
+* Simulate the LEO satellite communication link in urban environment
+* You can find more details on this [github link](https://github.com/XIAOBAOnpu/Starlink-simulation)
