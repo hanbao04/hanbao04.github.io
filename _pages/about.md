@@ -14,3 +14,5 @@ I obtained my BSc in Microelectronics degree from Northwestern Polytechnical Uni
 You can contact me via [Email](mailto:han.bao@vub.be) or [WeChat](../images/wechat.jpg) 
 
 Have a good day :-D
+
+<script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=a&t=n&d=uGAdqPrUtrntBGyhRrvRbiO1MNQino96Fq8GTXQgjks'></script>
