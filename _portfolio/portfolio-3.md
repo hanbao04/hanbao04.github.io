@@ -1,6 +1,6 @@
 ---
 title: A Power-Efficient Hardware Implementation of L-Mul
-excerpt: "<br/><img src='/images/design_LMUL'>"
+excerpt: "<br/><img src='/images/design_LMUL.png'>"
 collection: portfolio
 ---
 
