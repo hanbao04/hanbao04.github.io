@@ -6,6 +6,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
+
 ## ABOUT ME :volcano:
 :santa: I'm currently pursuing my Ph.D studies within the Vrije Universiteit Brussel, Departement of Electronics and Informatics (ETRO), under the guidance of [Prof. Bruno da Silva](https://www.etrovub.be/people/member/about-bio/bdasilva/). My research topic is FPGA-based applied edge AI.
 
@@ -13,9 +14,9 @@ redirect_from:
 
 :iphone: You can contact me via [Email](mailto:han.bao@vub.be) or [WeChat](../images/wechat.jpg) 
 
-:-D Have a good day 
+:notes: Have a good day :-D 
 
- ## Research Interests :smoking:
+## Research Interests :smoking:
 <div style="text-align: center; white-space: nowrap;">
     <div style="display: inline-block; margin: 10px;">
         <img src="/images/ai.png"
