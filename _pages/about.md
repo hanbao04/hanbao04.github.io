@@ -41,7 +41,6 @@ redirect_from:
 
 ## Publications :pencil:
 :broken_heart: I only have 1 so far :broken_heart:  
-
 **A Power-Efficient Hardware Implementation of L-Mul**  
 Ruiqi Chen, Yangxintong Lyu, Han Bao, et al  
 arXiv, 2024
