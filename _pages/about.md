@@ -24,13 +24,13 @@ Have a good day :-D
         <p>AI</p>
     </div>
   <div style="display: inline-block; margin: 10px;">
-        <img src="/images/archi"
+        <img src="/images/archi.png"
              alt="ops, imgs' gone"
              style="transform: scale(0.3);"/>
         <p>Computer Architecture</p>
     </div>
     <div style="display: inline-block; margin: 10px;">
-        <img src="/images/power_est"
+        <img src="/images/power_est.png"
              alt="ops, imgs' gone"
              style="transform: scale(0.3);"/>
         <p>Power Estimation</p>
