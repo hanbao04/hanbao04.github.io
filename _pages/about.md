@@ -39,22 +39,21 @@ Have a good day :-D
         <img src="/images/ai.png"
              alt="ops, imgs' gone"
              style="width: 170px; height:127px;"/>
-        <p>AI</p>
+        <p><strong>AI</strong></p>
     </div>
     <div style="display: inline-block; margin: 10px;">
         <img src="/images/archi.png"
              alt="ops, imgs' gone"
              style="width: 150px; height: 150px;"/>
-        <p>Computer Architecture</p>
+        <p><strong>Computer Architecture</strong></p>
     </div>
     <div style="display: inline-block; margin: 10px;">
         <img src="/images/power_est.png"
              alt="ops, imgs' gone"
              style="width: 130px; height: 130px;"/>
-        <p>Power Estimation</p>
+        <p><strong>Power Estimation</strong></p>
     </div>
 </div>
-
 
 <script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=a&t=n&d=uGAdqPrUtrntBGyhRrvRbiO1MNQino96Fq8GTXQgjks'></script>
 
