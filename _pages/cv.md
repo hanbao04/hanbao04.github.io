@@ -37,5 +37,6 @@ redirect_from:
   
 ## Award
 
-* Second-Class Scholarship, *Northwestern Polytechnical University* , 2021
 * Pass with Distinction, *Brussels Faculty of Engineering*, 2023
+* Second-Class Scholarship, *Northwestern Polytechnical University* , 2021
+
