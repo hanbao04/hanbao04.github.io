@@ -77,5 +77,5 @@ redirect_from:
   
 ## Award
 
-* Second-Class Scholarship, Northwestern Polytechnical University (2021)
-* Pass with Distinction, Brussels Faculty of Engineering (Bruface), Master’s Program (2023)
+* Second-Class Scholarship, *Northwestern Polytechnical University* , 2021
+* Pass with Distinction, *Brussels Faculty of Engineering (Bruface)*, 2023
