@@ -43,7 +43,6 @@ redirect_from:
 
 ## Publications :pencil:
 **FPGA-based Approximate Multiplier for FP8**  
-
 Ruiqi Chen, Yangxintong Lyu, Han Bao, et al  
 FCCM, 2025 oral
 
