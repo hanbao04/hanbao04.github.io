@@ -42,7 +42,8 @@ redirect_from:
 03/2025 My first pubilication on FCCM oral!!!!
 
 ## Publications :pencil:
-**FPGA-based Approximate Multiplier for FP8**
+**FPGA-based Approximate Multiplier for FP8**  
+
 Ruiqi Chen, Yangxintong Lyu, Han Bao, et al  
 FCCM, 2025 oral
 
