@@ -38,9 +38,14 @@ redirect_from:
     </div>
 </div>
 
+## Latest News :calendar:
+03/2025 My first pubilication on FCCM oral!!!!
 
 ## Publications :pencil:
-:broken_heart: I only have 1 so far :broken_heart:  
+**FPGA-based Approximate Multiplier for FP8**
+Ruiqi Chen, Yangxintong Lyu, Han Bao, et al  
+FCCM, 2025 oral
+
 **A Power-Efficient Hardware Implementation of L-Mul**  
 Ruiqi Chen, Yangxintong Lyu, Han Bao, et al  
 arXiv, 2024
