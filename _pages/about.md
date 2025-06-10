@@ -30,12 +30,6 @@ redirect_from:
              style="width: 150px; height: 150px;"/>
         <p><strong>Computer Architecture</strong></p>
     </div>
-    <div style="display: inline-block; margin: 10px;">
-        <img src="/images/power_est.png"
-             alt="ops, imgs' gone"
-             style="width: 130px; height: 130px;"/>
-        <p><strong>Power Estimation</strong></p>
-    </div>
 </div>
 
 ## Latest News :calendar:
