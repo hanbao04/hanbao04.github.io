@@ -22,7 +22,7 @@ redirect_from:
 
 * **RF Test Engineer (internship) (2021.6-2021.8)**
   * [Aviage Systems](https://www.aviagesystems.com)
-  * Testing and improving the performance of Beidou monitoring module for C919
+  * Testing and improving the performance of Beidou RF module for [C919](https://en.wikipedia.org/wiki/Comac_C919)
   * Department: BLU
     
 
