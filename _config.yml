@@ -12,7 +12,7 @@ title                    : "Han Bao / Personal Homepage"
 title_separator          : "-"
 name                     : &name "Han Bao"
 description              : &description "Ph.D candidate in ETRO, VUB"
-url                      : https://xiaobao-bit.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://hanbao04.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "hanbao04/hanbao04.github.io"
 
