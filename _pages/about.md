@@ -36,6 +36,14 @@ redirect_from:
 03/2025 My first pubilication on FCCM oral!!!!
 
 ## Publications :pencil:
+**FP8GCN: An Edge-FPGA-Based Graph Convolutional Network Accelerator with FP8 Approximate Multipliers**
+Shizhen Huang, Jiaren Peng, Yanxiang Zhu, Han Bao*
+IEEE Embedded Systems Letters, Early Access
+
+**FP8ApproxLib: An FPGA-Based Approximate Multiplier Library for 8-Bit Floating Point**
+Ruiqi Chen, Yangxintong Lyu, Han Bao, et al  
+Journal of Systems Architecture, 2026
+
 **FPGA-based Approximate Multiplier for FP8**  
 Ruiqi Chen, Yangxintong Lyu, Han Bao, et al  
 FCCM, 2025 oral
