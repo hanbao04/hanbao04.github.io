@@ -33,7 +33,13 @@ redirect_from:
 </div>
 
 ## Latest News :calendar:
-03/2025 My first pubilication on FCCM oral!!!!
+03/2026 My work is accepted by [Integration](https://www.sciencedirect.com/journal/integration)
+
+03/2026 Our work is accepted by [LES](https://ieee-ceda.org/publication/esl)
+
+02/2026 Our work is accepted by [JSA](https://www.sciencedirect.com/science/article/pii/S1383762126000044)
+
+03/2025 My first pubilication on [FCCM](https://ieeexplore.ieee.org/document/11008970) oral
 
 ## Publications :pencil:
 **FP8GCN: An Edge-FPGA-Based Graph Convolutional Network Accelerator with FP8 Approximate Multipliers**
