@@ -33,13 +33,13 @@ redirect_from:
 </div>
 
 ## Latest News :calendar:
-03/2026 My work is accepted by [Integration](https://www.sciencedirect.com/journal/integration)
+03/2026 My work [BenDan](https://www.sciencedirect.com/journal/integration) is accepted by [Integration](https://www.sciencedirect.com/journal/integration)
 
-03/2026 Our work is accepted by [LES](https://ieee-ceda.org/publication/esl)
+03/2026 Our work [FP8-GCN](https://ieee-ceda.org/publication/esl) is accepted by [LES](https://ieee-ceda.org/publication/esl)
 
-02/2026 Our work is accepted by [JSA](https://www.sciencedirect.com/science/article/pii/S1383762126000044)
+02/2026 Our work [FP8ApproxLib](https://www.sciencedirect.com/science/article/pii/S1383762126000044) is accepted by [JSA](https://www.sciencedirect.com/journal/journal-of-systems-architecture)
 
-03/2025 My first pubilication on [FCCM](https://ieeexplore.ieee.org/document/11008970) oral
+03/2025 My first pubilication [FP8-Approximate-Multiplier](https://ieeexplore.ieee.org/document/11008970) on [FCCM](https://www.fccm.org/past/2025/) oral
 
 ## Publications :pencil:
 **FP8GCN: An Edge-FPGA-Based Graph Convolutional Network Accelerator with FP8 Approximate Multipliers**
