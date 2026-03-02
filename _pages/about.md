@@ -35,7 +35,7 @@ redirect_from:
 ## Latest News :calendar:
 03/2026 My work [BenDan](https://www.sciencedirect.com/journal/integration) is accepted by [Integration](https://www.sciencedirect.com/journal/integration)
 
-03/2026 Our work [FP8-GCN](https://ieee-ceda.org/publication/esl) is accepted by [LES](https://ieee-ceda.org/publication/esl)
+03/2026 Our work [FP8-GCN](https://ieeexplore.ieee.org/abstract/document/11393534) is accepted by [LES](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=4563995)
 
 02/2026 Our work [FP8ApproxLib](https://www.sciencedirect.com/science/article/pii/S1383762126000044) is accepted by [JSA](https://www.sciencedirect.com/journal/journal-of-systems-architecture)
 
