@@ -43,8 +43,9 @@ redirect_from:
 
 ## Publications :pencil:
 **FP8GCN: An Edge-FPGA-Based Graph Convolutional Network Accelerator with FP8 Approximate Multipliers**
+
 Shizhen Huang, Jiaren Peng, Yanxiang Zhu, Han Bao*
-IEEE Embedded Systems Letters, Early Access
+IEEE Embedded Systems Letters, 2026
 
 **FP8ApproxLib: An FPGA-Based Approximate Multiplier Library for 8-Bit Floating Point**
 Ruiqi Chen, Yangxintong Lyu, Han Bao, et al  
