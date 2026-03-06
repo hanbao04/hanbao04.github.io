@@ -42,24 +42,24 @@ redirect_from:
 03/2025 My first pubilication [FP8-Approximate-Multiplier](https://ieeexplore.ieee.org/document/11008970) on [FCCM](https://www.fccm.org/past/2025/) oral
 
 ## Publications :pencil:
-**BenDan: Benchmarking DPU performance on FPGAs**
-Han Bao, Xingyu Liu, Xiaoke Wang, et al
-Integration - the VLSI journal, 2026
+**BenDan: Benchmarking DPU performance on FPGAs**<br>
+Han Bao, Xingyu Liu, Xiaoke Wang, et al<br>
+Integration - the VLSI journal, 2026<br>
 
-**FP8GCN: An Edge-FPGA-Based Graph Convolutional Network Accelerator with FP8 Approximate Multipliers**
-Shizhen Huang, Jiaren Peng, Yanxiang Zhu, Han Bao*
-IEEE Embedded Systems Letters, 2026
+**FP8GCN: An Edge-FPGA-Based Graph Convolutional Network Accelerator with FP8 Approximate Multipliers**<br>
+Shizhen Huang, Jiaren Peng, Yanxiang Zhu, Han Bao*<br>
+IEEE Embedded Systems Letters, 2026<br>
 
-**FP8ApproxLib: An FPGA-Based Approximate Multiplier Library for 8-Bit Floating Point**
-Ruiqi Chen, Yangxintong Lyu, Han Bao, et al  
-Journal of Systems Architecture, 2026
+**FP8ApproxLib: An FPGA-Based Approximate Multiplier Library for 8-Bit Floating Point**<br>
+Ruiqi Chen, Yangxintong Lyu, Han Bao, et al  <br>
+Journal of Systems Architecture, 2026<br>
 
-**FPGA-based Approximate Multiplier for FP8**  
-Ruiqi Chen, Yangxintong Lyu, Han Bao, et al  
-FCCM, 2025 oral
+**FPGA-based Approximate Multiplier for FP8**  <br>
+Ruiqi Chen, Yangxintong Lyu, Han Bao, et al  <br>
+FCCM, 2025 oral<br>
 
-**A Power-Efficient Hardware Implementation of L-Mul**  
-Ruiqi Chen, Yangxintong Lyu, Han Bao, et al  
-arXiv, 2024
+**A Power-Efficient Hardware Implementation of L-Mul**  <br>
+Ruiqi Chen, Yangxintong Lyu, Han Bao, et al  <br>
+arXiv, 2024<br>
 
 <script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=a&t=n&d=uGAdqPrUtrntBGyhRrvRbiO1MNQino96Fq8GTXQgjks'></script>
