@@ -33,7 +33,7 @@ redirect_from:
 </div>
 
 ## Latest News :calendar:
-03/2026 My work [BenDan](https://www.sciencedirect.com/journal/integration) is accepted by [Integration](https://www.sciencedirect.com/journal/integration)
+03/2026 My work [BenDan](https://www.sciencedirect.com/science/article/pii/S0167926026000507) is accepted by [Integration](https://www.sciencedirect.com/journal/integration)
 
 03/2026 Our work [FP8-GCN](https://ieeexplore.ieee.org/abstract/document/11393534) is accepted by [LES](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=4563995)
 
@@ -42,8 +42,11 @@ redirect_from:
 03/2025 My first pubilication [FP8-Approximate-Multiplier](https://ieeexplore.ieee.org/document/11008970) on [FCCM](https://www.fccm.org/past/2025/) oral
 
 ## Publications :pencil:
-**FP8GCN: An Edge-FPGA-Based Graph Convolutional Network Accelerator with FP8 Approximate Multipliers**
+**BenDan: Benchmarking DPU performance on FPGAs**
+Han Bao, Xingyu Liu, Xiaoke Wang, et al
+Integration - the VLSI journal, 2026
 
+**FP8GCN: An Edge-FPGA-Based Graph Convolutional Network Accelerator with FP8 Approximate Multipliers**
 Shizhen Huang, Jiaren Peng, Yanxiang Zhu, Han Bao*
 IEEE Embedded Systems Letters, 2026
 
