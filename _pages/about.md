@@ -33,6 +33,8 @@ redirect_from:
 </div>
 
 ## Latest News :calendar:
+03/2026 Our work [FANE](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=92) is accepted by [TVLSI](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=92)
+
 03/2026 My work [BenDan](https://www.sciencedirect.com/science/article/pii/S0167926026000507) is accepted by [Integration](https://www.sciencedirect.com/journal/integration)
 
 03/2026 Our work [FP8-GCN](https://ieeexplore.ieee.org/abstract/document/11393534) is accepted by [LES](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=4563995)
