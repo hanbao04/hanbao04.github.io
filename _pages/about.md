@@ -41,7 +41,7 @@ redirect_from:
 
 02/2026 Our work [FP8ApproxLib](https://www.sciencedirect.com/science/article/pii/S1383762126000044) is accepted by [JSA](https://www.sciencedirect.com/journal/journal-of-systems-architecture)
 
-03/2025 My first pubilication [FP8-Approximate-Multiplier](https://ieeexplore.ieee.org/document/11008970) on [FCCM](https://www.fccm.org/past/2025/) oral
+03/2025 Our first pubilication [FP8-Approximate-Multiplier](https://ieeexplore.ieee.org/document/11008970) on [FCCM](https://www.fccm.org/past/2025/) oral
 
 ## Publications :pencil:
 **BenDan: Benchmarking DPU performance on FPGAs**<br>
